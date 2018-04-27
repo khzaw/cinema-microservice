@@ -1,0 +1,8 @@
+{
+  "name": "catalog-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:khzaw/cinema-microservice.git",
+  "author": "Kaung Htet Zaw <me@kaunghtet.xyz>",
+  "license": "MIT"
+}
